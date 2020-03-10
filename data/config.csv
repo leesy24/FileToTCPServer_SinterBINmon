@@ -1,7 +1,7 @@
 Server_IP,Server_Port,Interval_Sec,Data_Directory,Data_File_Prefix
-192.168.0.21,7001,1,data\example,0_
+#192.168.0.21,7001,1,data\example,0_
 #192.168.0.21,7002,1,data\example,1_
-#192.168.0.21,7003,1,data\example,2_
+192.168.0.21,7003,1,data\example,2_
 #192.168.0.21,7004,1,data\example,3_
 #192.168.0.22,7001,1,data\example,4_
 #192.168.0.22,7002,1,data\example,5_
