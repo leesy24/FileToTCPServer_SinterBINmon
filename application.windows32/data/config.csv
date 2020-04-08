@@ -7,7 +7,7 @@ Server_IP,Server_Port,Interval_Sec,Data_Directory,Data_File_Prefix
 192.168.0.22,7002,1,data\meters,1m_
 192.168.0.22,7003,1,data\example,2_
 192.168.0.22,7004,1,data\20200319,7_
-192.168.0.22,7005,1,data\test,2m_
+192.168.0.22,7005,1,data\test,half_17m_
 192.168.0.22,7006,1,data\test,10m_
 192.168.0.31,7001,1,data\meters,19m_
 192.168.0.31,7002,1,data\meters,12m_
